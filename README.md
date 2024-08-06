@@ -3,8 +3,8 @@
 
 > With this extension, you can convert block palettes into a `give` command. It gives you a shulker box containing the desired palette.
 
-![The extension](https://imgur.com/AIkm7G4)
-![The extension in practice](https://imgur.com/gUJNZQd)
+![The extension](https://i.imgur.com/AIkm7G4.png)
+![The extension in practice](https://i.imgur.com/gUJNZQd.png)
 
 Tutorial:
 - Go to the selected palette's page
