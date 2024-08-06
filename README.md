@@ -7,7 +7,7 @@
 ![The extension in practice](https://i.imgur.com/gUJNZQd.png)
 ![The extension in game](https://i.imgur.com/3N8rxf8.png)
 
-# Tutorial:
+# Tutorial
 - Go to the selected palette's page
 - Open the extension
 - Click the "Generate" button
